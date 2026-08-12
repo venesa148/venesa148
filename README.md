@@ -168,8 +168,5 @@ improving the solution.
 
 </div>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venesa148/venesa148/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/venesa148/venesa148/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/venesa148/venesa148/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<!-- Use the dark SVG directly to ensure dark-theme viewers see the dark palette -->
+<img alt="pacman contribution graph (dark)" src="https://raw.githubusercontent.com/venesa148/venesa148/pacman-output/pacman-contribution-graph-dark.svg?game=pacman" style="width:100%; max-width:1100px;" />
