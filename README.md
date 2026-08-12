@@ -163,9 +163,6 @@ improving the solution.
 ![bye](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh3enUwemVkZmExYnEyeXIzaWQzNHE3ZXR0N2x3ZDFqcTN5NTdhOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gSQp32H82WETR5EFO6/giphy.gif)
 
 <i>Keep learning. Keep building. Keep growing.</i>
-
-<br><br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer"/>
 
 </div>
