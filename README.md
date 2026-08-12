@@ -1,16 +1,304 @@
-## Hi there 👋
-
 <!--
-**venesa148/venesa148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  Hi there! 👋
+  Welcome to my GitHub profile.
 -->
+
+<div align="center">
+
+# Hi, I'm Venesa Hutajulu👋🏻
+
+### Software Engineering Student • Full-Stack Developer • AI/ML Enthusiast
+
+![Hallaw](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmpoYWFrenV6Mml4cXphczJiOGVhbWU4YmUzd2xhcWR4N3h5MzJ1NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/98MaHVwJOmWMz4cz1K/giphy.gif)
+
+<p>
+  <i>Building things, learning things, and turning ideas into code ✨</i>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=venesa148&label=Profile%20Views&color=blueviolet&style=flat-square" />
+
+</div>
+
+---
+
+## 🌷 About Me
+
+Hi! I'm **Venesa Herawaty Hutajulu**, a Software Engineering Technology
+student who enjoys building web applications and exploring modern
+software development technologies.
+
+I'm interested in **Full-Stack Development, Backend Engineering,
+Database Systems, API Development, Artificial Intelligence,
+and Machine Learning**.
+
+I enjoy learning new technologies, solving problems through code,
+and turning ideas into functional applications.
+
+```text
+🎓 Software Engineering Technology Student
+💻 Full-Stack Development
+⚙️ Backend & API Development
+🗄️ Database & SQL
+🤖 AI / Machine Learning
+🌱 Always Learning
+☕ Coffee + Code
+```
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" />
+</p>
+
+- Python
+- Java
+- JavaScript
+- TypeScript
+
+---
+
+## 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind" />
+</p>
+
+- React
+- Next.js
+- Vue.js
+- JavaScript
+- TypeScript
+- Tailwind CSS
+
+---
+
+## ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,spring" />
+</p>
+
+- FastAPI
+- Spring Boot
+- REST API
+- HTTP
+- CRUD
+- API Integration
+- Backend Development
+
+---
+
+## 🗄️ Database & SQL
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,oracle" />
+</p>
+
+- PostgreSQL
+- MySQL
+- Oracle Database
+- Oracle SQL Developer
+- SQL
+- Database Design
+- CRUD Operations
+- Relational Database
+
+---
+
+## 🔧 Tools & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+- Git
+- GitHub
+- Visual Studio Code
+- Version Control
+- REST API
+- HTTP
+- Flowchart
+- System Modeling
+
+---
+
+## 📊 Other Skills
+
+- Software Engineering
+- System Analysis
+- Database Management
+- API Development
+- Problem Solving
+- Flowchart & System Modeling
+- Documentation
+- Microsoft Office
+
+---
+
+# 📚 Currently Learning
+
+```text
+             Full-Stack Development
+                       │
+                       ▼
+               Backend Architecture
+                       │
+                       ▼
+                REST API Development
+                       │
+                       ▼
+                  Database Design
+                       │
+                       ▼
+              Artificial Intelligence
+                       │
+                       ▼
+                Machine Learning
+                       │
+                       ▼
+                  RAG & LLM
+```
+
+---
+
+# 💻 Development Interests
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Web Development
+
+- Full-Stack Development
+- Frontend Development
+- Backend Development
+- REST API
+- API Integration
+- Responsive Web Applications
+
+</td>
+
+<td width="50%">
+
+### 🧠 AI & Data
+
+- Machine Learning
+- Natural Language Processing
+- Sentiment Analysis
+- RAG
+- LLM Applications
+- Data Processing
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🗄️ Database
+
+- PostgreSQL
+- MySQL
+- Oracle Database
+- SQL
+- Database Design
+- Data Management
+
+</td>
+
+<td>
+
+### ⚙️ Software Engineering
+
+- System Analysis
+- System Design
+- Flowchart
+- CRUD
+- Version Control
+- Agile & Scrum
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=venesa148&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
+---
+
+# 📈 My Skills
+
+<div align="center">
+
+| Category      | Skills                                  |
+| ------------- | --------------------------------------- |
+| **Languages** | Python, Java, JavaScript, TypeScript    |
+| **Frontend**  | React, Next.js, Vue.js, Tailwind CSS    |
+| **Backend**   | FastAPI, Spring Boot                    |
+| **API**       | REST API, HTTP, CRUD                    |
+| **Database**  | PostgreSQL, MySQL, Oracle Database, SQL |
+| **Tools**     | Git, GitHub, VS Code                    |
+| **AI / ML**   | Machine Learning, NLP, RAG, LLM         |
+| **Modeling**  | Flowchart, System Analysis              |
+| **Other**     | Documentation, Microsoft Office         |
+
+</div>
+
+---
+
+# 🧩 Development Philosophy
+
+<div align="center">
+
+> **Learn → Build → Break → Fix → Improve → Repeat**
+
+</div>
+
+I believe the best way to learn software engineering is by
+building real projects, facing problems, and continuously
+improving the solution.
+
+---
+
+# 💌 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/venesa148">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:venesahutajulu@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile! ✨
+
+![bye](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh3enUwemVkZmExYnEyeXIzaWQzNHE3ZXR0N2x3ZDFqcTN5NTdhOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gSQp32H82WETR5EFO6/giphy.gif)
+
+<i>Keep learning. Keep building. Keep growing.</i>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer"/>
+
+</div>
