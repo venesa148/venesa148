@@ -3,17 +3,19 @@
   Welcome to my GitHub profile.
 -->
 
+![Venesa](img/gambar.png)
+
 <div align="center">
-
-# Hi, I'm Venesa Hutajulu👋🏻
-
-### Software Engineering Student • Full-Stack Developer • Business Analyst • AI/ML Enthusiast
-
-![Hallaw](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmpoYWFrenV6Mml4cXphczJiOGVhbWU4YmUzd2xhcWR4N3h5MzJ1NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/98MaHVwJOmWMz4cz1K/giphy.gif)
-
 <p>
   <i>Building things, learning things, and turning ideas into code ✨</i>
 </p>
+<!-- # Hi, I'm Venesa Hutajulu👋🏻
+<p>
+  <i>Building things, learning things, and turning ideas into code ✨</i>
+</p>
+### Software Engineering Student • Full-Stack Developer • Business Analyst • AI/ML Enthusiast -->
+
+![Hallaw](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmpoYWFrenV6Mml4cXphczJiOGVhbWU4YmUzd2xhcWR4N3h5MzJ1NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/98MaHVwJOmWMz4cz1K/giphy.gif)
 
 <img src="https://komarev.com/ghpvc/?username=venesa148&label=Profile%20Views&color=blueviolet&style=flat-square" />
 
