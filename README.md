@@ -7,7 +7,7 @@
 
 # Hi, I'm Venesa Hutajulu👋🏻
 
-### Software Engineering Student • Full-Stack Developer • AI/ML Enthusiast
+### Software Engineering Student • Full-Stack Developer • Business Analyst • AI/ML Enthusiast
 
 ![Hallaw](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmpoYWFrenV6Mml4cXphczJiOGVhbWU4YmUzd2xhcWR4N3h5MzJ1NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/98MaHVwJOmWMz4cz1K/giphy.gif)
 
@@ -126,51 +126,6 @@ and turning ideas into functional applications.
 
 ---
 
-## 📊 Other Skills
-
-- Software Engineering
-- System Analysis
-- Database Management
-- API Development
-- Problem Solving
-- Flowchart & System Modeling
-- Documentation
-- Microsoft Office
-
----
-
-# 📚 Currently Learning
-
-```text
-             Full-Stack Development
-                       │
-                       ▼
-               Backend Architecture
-                       │
-                       ▼
-                REST API Development
-                       │
-                       ▼
-                  Database Design
-                       │
-                       ▼
-              Artificial Intelligence
-                       │
-                       ▼
-                Machine Learning
-                       │
-                       ▼
-                  RAG & LLM
-```
-
----
-
-# 💻 Development Interests
-
-<table>
-<tr>
-<td width="50%">
-
 ### 🌐 Web Development
 
 - Full-Stack Development
@@ -224,38 +179,6 @@ and turning ideas into functional applications.
 </td>
 </tr>
 </table>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=venesa148&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
----
-
-# 📈 My Skills
-
-<div align="center">
-
-| Category      | Skills                                  |
-| ------------- | --------------------------------------- |
-| **Languages** | Python, Java, JavaScript, TypeScript    |
-| **Frontend**  | React, Next.js, Vue.js, Tailwind CSS    |
-| **Backend**   | FastAPI, Spring Boot                    |
-| **API**       | REST API, HTTP, CRUD                    |
-| **Database**  | PostgreSQL, MySQL, Oracle Database, SQL |
-| **Tools**     | Git, GitHub, VS Code                    |
-| **AI / ML**   | Machine Learning, NLP, RAG, LLM         |
-| **Modeling**  | Flowchart, System Analysis              |
-| **Other**     | Documentation, Microsoft Office         |
-
-</div>
 
 ---
 
