@@ -167,6 +167,3 @@ improving the solution.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer"/>
 
 </div>
-
-<!-- Use the dark SVG directly to ensure dark-theme viewers see the dark palette -->
-<img alt="pacman contribution graph (dark)" src="https://raw.githubusercontent.com/venesa148/venesa148/pacman-output/pacman-contribution-graph-dark.svg?game=pacman" style="width:100%; max-width:1100px;" />
